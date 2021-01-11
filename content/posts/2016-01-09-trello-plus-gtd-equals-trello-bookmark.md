@@ -1,69 +1,65 @@
 ---
 template: post
-title: Trello + GTD = Trello Bookmark
-slug: /posts/trello-plus-gtd-equals-trello-bookmark
+title: サイト設立しました。天才こすけです。
+slug: /posts/firstpost
 draft: false
-priority: 5
-date: 2019-03-27T00:46:37.121Z
-description: >-
-  You know, I hate routine.
-
-  But one of the greatest things about being a programmer is that you can
-  automate your routine.
-category: productivity
+priority: 2
+date: 2021-01-11T09:58:52.933Z
+description: 基本的に記入しておくことが推奨されている。
+category: 雑記
 tags:
   - trello
   - gtd
   - chrome
   - plugin
 ---
+![サイトのスクショ](/media/gatsby-starter-blog-and-cv.png "サイトのスクショ")
 
-You know, I hate routine.
+#today's title  
+こんにちは。今日は初めてnetlifyでサイトを制作してみました。 難しくて途中で何度か寝てしまいましたが、私の彼氏の育生君がちゃんと作成してくれました。なんて優しい人なんでしょう。太っていて見た目は劣悪ですが、中身はいいので皆さんも彼の良さを見つけてあげてください。彼もこれから今月末にかけて３キロ以上体重を減らすと誓っているので楽しみにしましょうね。
 
-But one of the greatest things about being a programmer is that you can automate your routine.
-
----
+- - -
 
 As bequeathed by David Allen, in his brilliant GTD: “Put everything out needless of your head to keep it clean and concentrated.”
 
 Let’s see what gets there:
 
-- ideas (develop an Android app for blind puppies);
-- tasks (take out the cat, pet the trash, pass the report);
-- projects with detailed plans and task lists (trip to Somalia, meeting the girl’s parents);
-- notes (Mike snores, not worth to live with him in one tent).
+* ideas (develop an Android app for blind puppies);
+* tasks (take out the cat, pet the trash, pass the report);
+* projects with detailed plans and task lists (trip to Somalia, meeting the girl’s parents);
+* notes (Mike snores, not worth to live with him in one tent).
 
 Typically, the practical application of GTD in Trello ends here. However, if you look carefully, you should add browser bookmarks here. Many of us just save them in the browser. They accumulate there and eventually remain without attention.
 
 There are several standard solutions for adding a card to Trello:
 
-- Trello application for the desktop.
+* Trello application for the desktop.
 
 ![Trello desktop](/media/trello-gtd/01.png 'Trello desktop')
 
 However, this is not very suitable for saving bookmarks, because you cannot add a screenshot. The link fits into the description, not as an attachment. So the name of the bookmark will have to be typed manually.
 
-- Trello chrome extensions. It has many solutions, varying degrees of readiness and stability. In any case, you cannot upload a screenshot or you have got a lot of manual work.
-- Manually create a card on Trello.com. It is suitable for people who have a lot of free time.
+* Trello chrome extensions. It has many solutions, varying degrees of readiness and stability. In any case, you cannot upload a screenshot or you have got a lot of manual work.
+* Manually create a card on Trello.com. It is suitable for people who have a lot of free time.
 
 Upon the whole, not finding a suitable solution — I wrote my own plugin. Meet [Trello Bookmark](https://chrome.google.com/webstore/detail/trello-bookmark/ephoopolmejjnjkbbdcfgoohokhnekca)!
 
 Here’s what it has:
 
-- board and list selection (personal and team);
-- position in the list;
-- name of the card;
-- description;
-- link (as an attachment);
-- cover;
-- labels;
-- due date;
-- assignee;
+* board and list selection (personal and team);
+* position in the list;
+* name of the card;
+* description;
+* link (as an attachment);
+* cover;
+* labels;
+* due date;
+* assignee;
 
 And additionally to above-stated:
 
-- it supports hotkeys (keyboard navigation through tab and arrows, saving by CTRL + enter);
-- advanced logic field by default.
+* it supports hotkeys (keyboard navigation through tab and arrows, saving by CTRL + enter);
+* advanced logic field by default.
 
 ![Trello Bookmark default locations](/media/trello-gtd/02.png 'Trello Bookmark default locations')
 
@@ -89,7 +85,7 @@ At the moment, this criterion is the presence of a red label “!!!”. In the f
 
 While the plugin is not available for public use, write in the comments or me on marat.dospolov@gmail.com if you want to get it faster.
 
----
+- - -
 
 Trello is an amazing tool that can solve most of your tasks, especially if you apply a little magic!
 
