@@ -1,7 +1,7 @@
 module.exports = {
   url: 'https://owhat-iv.netlify.app',
   pathPrefix: '/',
-  title: 'Blog by Marat Dospolov',
+  title: 'owhat.investing',
   keywords:
     'account surfer, trello bookmark, trello, productivity, javascript, Marat Dospolov, choosy windows, browser selector',
   subtitle: 'Developer. Optimizer. Learner.',
